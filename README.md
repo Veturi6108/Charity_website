@@ -34,7 +34,7 @@ This repository contains the frontend code for **Our Charity**, a modern, respon
 
 1. **Clone the repository**:
     ```
-    git clone https://github.com/yourusername/charity-frontend.git
+    git clone https://github.com/Veturi6108/Charity_website
     cd charity-frontend
     ```
 

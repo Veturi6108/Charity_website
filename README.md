@@ -1,6 +1,4 @@
-Apologies for the confusion! Here's the entire README content ready for **direct copy-paste** into your README.md file, without any explanations or code blocks around it:
 
----
 
 # Our Charity Website
 
@@ -115,4 +113,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-Now, you can simply **copy and paste** this entire block into your `README.md` file on GitHub! Replace the placeholder paths like `path_to_hero_screenshot` with actual image paths as needed.
